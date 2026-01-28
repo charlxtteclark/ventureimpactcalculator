@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ventureimpactcalculator/static/css/main.f60d7493.css",
+    "main.js": "/ventureimpactcalculator/static/js/main.3cb4cdb2.js",
+    "static/js/453.bf1e7a65.chunk.js": "/ventureimpactcalculator/static/js/453.bf1e7a65.chunk.js",
+    "index.html": "/ventureimpactcalculator/index.html",
+    "main.f60d7493.css.map": "/ventureimpactcalculator/static/css/main.f60d7493.css.map",
+    "main.3cb4cdb2.js.map": "/ventureimpactcalculator/static/js/main.3cb4cdb2.js.map",
+    "453.bf1e7a65.chunk.js.map": "/ventureimpactcalculator/static/js/453.bf1e7a65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f60d7493.css",
+    "static/js/main.3cb4cdb2.js"
+  ]
+}
