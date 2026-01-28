@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ventureimpactcalculator/static/css/main.48c0967e.css",
-    "main.js": "/ventureimpactcalculator/static/js/main.ac0a23e5.js",
+    "main.css": "/ventureimpactcalculator/static/css/main.793bf19f.css",
+    "main.js": "/ventureimpactcalculator/static/js/main.0c5a6551.js",
     "static/js/453.bf1e7a65.chunk.js": "/ventureimpactcalculator/static/js/453.bf1e7a65.chunk.js",
     "index.html": "/ventureimpactcalculator/index.html",
-    "main.48c0967e.css.map": "/ventureimpactcalculator/static/css/main.48c0967e.css.map",
-    "main.ac0a23e5.js.map": "/ventureimpactcalculator/static/js/main.ac0a23e5.js.map",
+    "main.793bf19f.css.map": "/ventureimpactcalculator/static/css/main.793bf19f.css.map",
+    "main.0c5a6551.js.map": "/ventureimpactcalculator/static/js/main.0c5a6551.js.map",
     "453.bf1e7a65.chunk.js.map": "/ventureimpactcalculator/static/js/453.bf1e7a65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48c0967e.css",
-    "static/js/main.ac0a23e5.js"
+    "static/css/main.793bf19f.css",
+    "static/js/main.0c5a6551.js"
   ]
 }
