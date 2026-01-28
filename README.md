@@ -17,8 +17,18 @@ A comprehensive venture capital deal evaluation and ranking tool designed for im
 
 - **Weighted Ranking System:** Automatically calculates and ranks deals based on weighted scores
 - **Interactive Sliders:** Intuitive scoring interface with visual feedback
+- **Local Storage:** All data is automatically saved in your browser and persists between sessions
 - **CSV Export:** Download your complete evaluation data for further analysis
 - **Responsive Design:** Works seamlessly on desktop and mobile devices
+
+## Data Storage
+
+Your startup evaluations are automatically saved to your browser's local storage. This means:
+- ✅ Data persists between sessions
+- ✅ No account or login required
+- ✅ Works offline after first load
+- ⚠️ Data is browser-specific (won't sync across devices)
+- ⚠️ Clearing browser data will delete saved startups
 
 ## Getting Started
 
@@ -59,6 +69,7 @@ npm run deploy
 - React
 - Tailwind CSS
 - Lucide React (icons)
+- Browser Local Storage API
 - GitHub Pages
 
 ## License
